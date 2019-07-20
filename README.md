@@ -1,4 +1,4 @@
-It's my fork from original RTL8192eu linux driver with support of Mercusys MW300UM
+It's my fork from original RTL8192eu linux driver with support of Mercusys MW300UM.
 Run add and install commands from driver directory:
 
 ```
