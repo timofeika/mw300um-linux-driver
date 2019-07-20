@@ -4,9 +4,8 @@ Run add and install commands from driver directory:
 ```
 sudo dkms add .
 sudo dkms install rtl8192eu/1.0
+sudo reboot
 ```
-
-Reboot
 
 
 
